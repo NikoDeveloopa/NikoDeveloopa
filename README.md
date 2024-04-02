@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Nikodem! 👋
 
-<!--
-**NikoDeveloopa/NikoDeveloopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in web application development and I'm passionate about creating amazing user experiences. Below are some of the technologies I love to work with:
 
-Here are some ideas to get you started:
+- **Next.js**: I enjoy building fast and scalable web applications with Next.js.
+- **Angular**: Angular is my go-to framework for building robust single-page applications.
+- **Astro.js**: I'm excited about the potential of Astro.js for building modern websites.
+- **C++**: I have experience in building high-performance applications using C++.
+- **C#**: C# is another language I'm proficient in, especially for developing Windows applications.
+- **Ruby**: I also have a fondness for Ruby and enjoy using it for various projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories to see some of my projects and contributions.
+
+## 📫 Get in touch
+
+- Discord: (@nicomal.)
